@@ -23,6 +23,10 @@ Go to the **Releases** page and download the latest `.zip` file.
 
 ![Screenshot of the Release Page download button](PLACE_IMAGE_LINK_HERE)
 
+The online version is a version that is lighter on the download but has to install the 500MB+ of dependencies when you launch it. (USE Launch.bat) ONLY WHEN USING ONLINE VERSION
+
+The offline version is a version that comes packed with the required dependencies making it heavier on the first download but no extra download behind it and you can directly use launch.bat or start.py to run it.
+
 ### 2. Extract
 Unzip the downloaded file into a folder of your choice.
 
