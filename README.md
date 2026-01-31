@@ -2,7 +2,7 @@
 
 A powerful, automated tool to download Steam Workshop wallpapers directly into Wallpaper Engine without needing the Steam client running. Features a custom browser integration with a "One-Click" download system.
 
-<img width="128" height="71" alt="Gemini_Generated_Image_iwz70uiwz70uiwz7-Photoroom" src="https://github.com/user-attachments/assets/4d328a9a-4df0-495c-bcf1-b213e2c3dd96" />
+<img width="256" height="142" alt="Gemini_Generated_Image_iwz70uiwz70uiwz7-Photoroom" src="https://github.com/user-attachments/assets/4d328a9a-4df0-495c-bcf1-b213e2c3dd96" />
 
 
 ## ⚡ Features
