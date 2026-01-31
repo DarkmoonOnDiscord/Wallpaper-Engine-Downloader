@@ -1,9 +1,14 @@
 # 📥 Wallpaper Engine Workshop Downloader
 
+<div align="center">
+  <img width="256" alt="Wallpaper Engine Downloader Logo" src="https://github.com/user-attachments/assets/4d328a9a-4df0-495c-bcf1-b213e2c3dd96" />
+</div>
+
+<br>
+
 A powerful, automated tool to download Steam Workshop wallpapers directly into Wallpaper Engine without needing the Steam client running. Features a custom browser integration with a "One-Click" download system.
 
-<img width="256" height="142" alt="Gemini_Generated_Image_iwz70uiwz70uiwz7-Photoroom" src="https://github.com/user-attachments/assets/4d328a9a-4df0-495c-bcf1-b213e2c3dd96" />
-
+---
 
 ## ⚡ Features
 
@@ -19,13 +24,10 @@ A powerful, automated tool to download Steam Workshop wallpapers directly into W
 ### 1. Download
 Go to the **Releases** page and download the latest `.zip` file.
 
-[**🔗 CLICK HERE TO DOWNLOAD LATEST RELEASE**](PLACE_LINK_TO_GITHUB_RELEASES_PAGE_HERE)
+[**🔗 CLICK HERE TO DOWNLOAD LATEST RELEASE**](https://github.com/DarkmoonOnDiscord/Wallpaper-Engine-Downloader/releases/)
 
-![Screenshot of the Release Page download button](PLACE_IMAGE_LINK_HERE)
-
-The online version is a version that is lighter on the download but has to install the 500MB+ of dependencies when you launch it. (USE Launch.bat) ONLY WHEN USING ONLINE VERSION
-
-The offline version is a version that comes packed with the required dependencies making it heavier on the first download but no extra download behind it and you can directly use launch.bat or start.py to run it.
+* **Offline Version (Recommended):** Comes packed with required dependencies. It is a heavier initial download, but requires no extra downloads later. You can directly use `launch.bat` or `start.py`.
+* **Online Version:** Lighter initial download, but needs to install 500MB+ of dependencies when you first launch it using `Launch.bat`.
 
 ### 2. Extract
 Unzip the downloaded file into a folder of your choice.
@@ -38,17 +40,25 @@ Double-click **`Launch.bat`** to start the application.
 
 ### 4. Select Wallpaper Engine Folder
 On the first launch, a popup will ask for your Wallpaper Engine installation path.
-Navigate to your folder, usually located here:
+Navigate to your folder. It is usually located here:
 `C:\Program Files (x86)\Steam\steamapps\common\wallpaper_engine`
 
-![Screenshot of the Folder Selection Dialog](PLACE_IMAGE_LINK_HERE)
+*(If you downloaded Wallpaper Engine from other sources, navigate to that specific installation folder.)*
+
+<div align="center">
+  <img width="500" alt="Folder Selection Dialog" src="https://github.com/user-attachments/assets/af9a8c2b-30d8-4fe4-aedf-440a080aeeae" />
+</div>
+
 
 ### 5. Browse & Download
-A customized browser window will open. Browse the Workshop as you normally would. When you see a wallpaper you like, click the **Download** button (this replaces the standard Subscribe button).
+A customized browser window will open. Browse the Workshop as you normally would. When you see a wallpaper you like, click the new **Download** button (this replaces the standard Subscribe button).
 
-![Screenshot of the Browser Window with items](PLACE_IMAGE_LINK_HERE)
+<div align="center">
+  <img width="750" alt="Custom Browser Interface" src="https://github.com/user-attachments/assets/8e003281-10be-4af1-a633-a18ee3428759" />
+  <br><br>
+  <img width="750" alt="Download Button Example" src="https://github.com/user-attachments/assets/8944a04e-e45a-4281-89b3-453a73170682" />
+</div>
 
-![Screenshot of the Download Button being clicked](PLACE_IMAGE_LINK_HERE)
 
 ### 6. Done!
 The download usually takes **15-20 seconds**.
